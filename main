@@ -1,0 +1,1 @@
+Array is a static contiguous array. That means - The created array will be stored in continuous memory location and will be of same data types like integers, float, strings etc.
